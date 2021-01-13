@@ -9,3 +9,9 @@
 /.idea/
 /target/
 powp-rhymers.iml
+/out/
+/.idea/
+/target/
+.project
+.classpath
+/.settings/
