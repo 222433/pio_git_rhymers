@@ -6,7 +6,6 @@ public class Node {
 	private Node prev, next;
 
 	public int getValue() {
-
 		return value;
 	}
 
