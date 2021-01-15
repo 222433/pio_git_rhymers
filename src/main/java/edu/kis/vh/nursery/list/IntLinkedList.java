@@ -78,5 +78,7 @@ public class IntLinkedList {
             value = i;
         }
 
+        public void test(){}
+
     }
 }
